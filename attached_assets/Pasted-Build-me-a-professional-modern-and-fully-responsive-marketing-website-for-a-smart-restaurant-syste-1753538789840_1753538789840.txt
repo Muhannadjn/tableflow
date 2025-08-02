@@ -1,0 +1,119 @@
+Build me a professional, modern, and fully responsive marketing website for a smart restaurant system called Runix. The website must support both English and Swedish, and the user should be able to toggle between the two languages. Use clean layout, professional typography, smooth animations, and mobile-friendly design. I want a full structure that includes a homepage, features, testimonials, customization info, pricing, FAQs, and footer.
+
+Here's the full structure and content (in both English and Swedish):
+
+🏠 Homepage (Hero Section)
+Large centered hero box with:
+
+EN: "The Smartest Way to Run Your Restaurant"
+SV: "Det smartaste sättet att driva din restaurang"
+
+Smaller subheading:
+EN: "Runix is a smart, all-in-one system that helps restaurants take orders faster, serve better, and sell more with less stress for your staff."
+SV: "Runix är ett smart, allt-i-ett-system som hjälper restauranger att ta emot beställningar snabbare, ge bättre service och sälja mer — med mindre stress för personalen."
+
+On the right side of the hero box: embed a placeholder for a YouTube video (demo will be added later)
+
+Below hero: professional logo carousel (scrolling horizontally, autoplay, placeholder logos)
+
+🚀 Why Runix (Features Section)
+Each item should be inside a box with an icon, headline, text, and a placeholder image on the side.
+
+🧾 Take more orders, faster
+EN: No more waiting to place an order. Tables turn faster. Customers are happier.
+SV: Inga fler väntetider för beställningar. Borden vänder snabbare. Kunderna blir nöjdare.
+
+⭐ Get more Google reviews
+EN: After the meal, guests get a text asking for a review — fully automated.
+SV: Efter måltiden får gästerna ett sms som ber om en recension — helt automatiserat.
+
+💬 Bring guests back automatically
+EN: Send offers by SMS to past customers with just a few clicks.
+SV: Skicka erbjudanden via SMS till tidigare kunder med bara några klick.
+
+💰 Sell more with smart upsells
+EN: Runix suggests drinks, sides, or desserts during checkout — most guests say yes.
+SV: Runix föreslår drycker, tillbehör eller desserter vid utcheckning — de flesta tackar ja.
+
+🧠 Track everything in real time
+EN: Know what’s going on in your restaurant at any moment — even if you’re not there.
+SV: Få full överblick i realtid — även när du inte är på plats.
+
+🧑‍🍳 Make life easier for your staff
+EN: No more running back and forth. No more missed orders.
+SV: Ingen mer spring. Inga fler missade beställningar.
+
+🎨 Customization Section
+Title suggestion: “Made for Your Brand” / “Skräddarsytt för ditt varumärke”
+
+Text:
+
+EN: Everything in Runix can be customized:
+
+SV: Allt i Runix kan anpassas:
+
+Bullet points:
+
+Your logo / Din logotyp
+
+Your colors / Dina färger
+
+Your menu and layout / Din meny och layout
+
+Any language / Vilket språk du vill
+
+Flow of how guests order / Gästens beställningsflöde
+
+Final sentence:
+
+EN: You decide how it works — we just make it easy.
+
+SV: Du bestämmer hur det fungerar — vi gör det enkelt.
+
+👥 Testimonials Section
+Title: What Other Restaurant Owners Say / Vad Andra Restaurangägare Säger
+
+Use quote cards with names and cities:
+
+“Runix made our service twice as fast and the staff way less stressed.”
+— Sofia, Café Owner, Göteborg
+
+“It’s so simple to use. Our customers love it, and we’ve seen a big jump in reviews and sales.”
+— Mehdi, Restaurangägare, Malmö
+
+“I can see everything that’s happening in real time even when I’m not on site.”
+— Anna, Franchise Owner
+
+💸 Pricing Page
+Title: Pricing / Priser
+Add 3 pricing plans with placeholders (Basic, Pro, Enterprise). Show monthly pricing, features included, and CTA button for each.
+
+❓ FAQ Section
+Title: Frequently Asked Questions / Vanliga Frågor
+Add 5 collapsible question-answer items in both languages (placeholder questions I will change later).
+
+📞 Support Section
+Title: Support That Actually Supports You / Stöd som faktiskt stöttar dig
+
+Text:
+
+EN: Need help? Have a question? Something not working?
+We’re here for you 24/7.
+Real humans. Real answers. Whenever you need us.
+
+SV: Behöver du hjälp? Har du en fråga? Något som inte fungerar?
+Vi finns här för dig dygnet runt.
+Riktiga människor. Riktiga svar. När du behöver oss.
+
+🔻 Footer
+Add Runix logo
+
+Language switcher (EN / SV)
+
+Navigation links: Home, Why Runix, Customization, Pricing, FAQ, Contact
+
+Social media icons (placeholders)
+
+Clean and minimal layout
+
+Use modern fonts (like Inter, Poppins, or DM Sans), add scroll animations, and ensure mobile responsiveness. Design should be premium and scalable — suitable for a tech startup SaaS product.
